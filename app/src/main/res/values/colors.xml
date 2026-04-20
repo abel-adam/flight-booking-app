@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Ethiopian Airlines Brand Palette -->
+    <color name="primary_et">#007A33</color>
+    <color name="primary_dark_et">#005E27</color>
+    <color name="accent_et">#FDB913</color>
+    <color name="bg_et">#F3F7FB</color>
+    <color name="surface_et">#FFFFFF</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#1F2937</color>
+    <color name="text_secondary">#6B7280</color>
+    
+    <!-- Premium Power UI Colors -->
+    <color name="brand_green">#008751</color>
+    <color name="brand_gold">#FFB800</color>
+    <color name="surface_slate">#F3F4F6</color>
+    <color name="input_bg_modern">#F8FAFC</color>
+    <color name="input_border_modern">#E2E8F0</color>
+
+    
+    <!-- Functional / Status Colors -->
+    <color name="error_bg_faint">#FEF2F2</color>
+    <color name="error_border">#DC2626</color>
+    <color name="success_green">#007A33</color>
+
+    <color name="primary">#007A33</color>
+    <color name="primary_variant">#005E27</color>
+    <color name="secondary">#FDB913</color>
+    <color name="background">#F3F7FB</color>
+    <color name="surface">#FFFFFF</color>
+    
+    <!-- Existing UI Helpers (Kept for compatibility) -->
+    <color name="text_main">#1F2937</color>
+    <color name="text_muted">#6B7280</color>
+    <color name="text_hint">#9CA3AF</color>
+    <color name="border">#E2E8F0</color>
+    <color name="input_fill">#F3F4F6</color>
+    <color name="white">#FFFFFF</color>
+    <color name="otp_box_bg">#FFFFFF</color>
+    <color name="white_60">#99FFFFFF</color>
+    <color name="white_20">#33FFFFFF</color>
+    <color name="black">#000000</color>
+    
+    <color name="slate_50">#F8FAFC</color>
+    <color name="slate_100">#F1F5F9</color>
+    <color name="slate_200">#E2E8F0</color>
+    <color name="slate_300">#CBD5E1</color>
+    
+    <color name="red_50">#FEF2F2</color>
+    <color name="red_500">#EF4444</color>
+    <color name="green_50">#F0FDF4</color>
+    <color name="green_500">#007A33</color>
+
+    <!-- Amber / Gold -->
+    <color name="amber_500">#F59E0B</color>
+
+    <!-- Profile palette aliases (mapped to brand) -->
+    <color name="profile_screen_bg">#F3F7FB</color>
+    <color name="profile_navy">#1F2937</color>
+    <color name="profile_accent">#FDB913</color>
+
+    <!-- Misc helpers -->
+    <color name="card_bg_color">#FFFFFF</color>
+
+    <!-- UI Component Colors (Restored/Added for compatibility) -->
+    <color name="amber_50">#FFFBEB</color>
+    <color name="blue_50">#EFF6FF</color>
+    <color name="blue_500">#3B82F6</color>
+    <color name="flight_card_selected_bg">#EFF6FF</color>
+    <color name="profile_badge_bg">#FDB913</color>
+    <color name="premium_gold">#FDB913</color>
+    <color name="profile_input_border">#E5E7EB</color>
+    <color name="profile_card_action_icon_bg">#F0FDF4</color>
+    <color name="profile_email_field_bg">#F9FAFB</color>
+    <color name="profile_menu_icon_circle">#F0FDF4</color>
+    <color name="green_circle_faint">#F0FDF4</color>
+</resources>

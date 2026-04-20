@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-mergeDebugResources-38:\\layout\\fragment_booking_details_admin.xml",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\fragment_booking_details_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-mergeDebugResources-38:\\layout\\fragment_ticket.xml",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\fragment_ticket.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-mergeDebugResources-38:\\layout\\activity_reset_password.xml",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\activity_reset_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-mergeDebugResources-38:\\layout\\item_destination.xml",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\item_destination.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-mergeDebugResources-38:\\layout\\item_booking.xml",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\item_booking.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-mergeDebugResources-38:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-mergeDebugResources-38:\\layout\\dialog_add_flight.xml",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\dialog_add_flight.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-mergeDebugResources-38:\\layout\\fragment_admin_dashboard.xml",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\fragment_admin_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-mergeDebugResources-38:\\layout\\fragment_destination_management.xml",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\fragment_destination_management.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-mergeDebugResources-38:\\layout\\fragment_profile_edit.xml",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\fragment_profile_edit.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-mergeDebugResources-38:/layout/activity_forgot_password.xml",
+        "source": "com.example.flightbooking.app-main-41:/layout/activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-mergeDebugResources-38:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-mergeDebugResources-38:\\layout\\dialog_loading.xml",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\dialog_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-mergeDebugResources-38:\\layout\\fragment_boarding_pass.xml",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\fragment_boarding_pass.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-mergeDebugResources-38:\\layout\\item_admin_flight.xml",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\item_admin_flight.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-mergeDebugResources-38:\\layout\\fragment_booking_management.xml",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\fragment_booking_management.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-mergeDebugResources-38:\\layout\\item_admin_user.xml",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\item_admin_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-mergeDebugResources-38:\\layout\\item_admin_booking.xml",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\item_admin_booking.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-mergeDebugResources-38:\\layout\\item_admin_stat.xml",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\item_admin_stat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-mergeDebugResources-38:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-mergeDebugResources-38:\\layout\\activity_register.xml",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-mergeDebugResources-38:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-mergeDebugResources-38:\\layout\\fragment_booking.xml",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\fragment_booking.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-mergeDebugResources-38:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-mergeDebugResources-38:\\layout\\fragment_all_destinations.xml",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\fragment_all_destinations.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-mergeDebugResources-38:\\layout\\fragment_flight_listing.xml",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\fragment_flight_listing.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-mergeDebugResources-38:\\layout\\fragment_user_management.xml",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\fragment_user_management.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-mergeDebugResources-38:\\layout\\activity_forgot_password.xml",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-mergeDebugResources-38:\\layout\\fragment_add_destination.xml",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\fragment_add_destination.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-mergeDebugResources-38:\\layout\\activity_otp_verification.xml",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\activity_otp_verification.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-mergeDebugResources-38:\\layout\\fragment_profile_guest.xml",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\fragment_profile_guest.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-mergeDebugResources-38:\\layout\\item_profile_menu.xml",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\item_profile_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-mergeDebugResources-38:\\layout\\item_flight.xml",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\item_flight.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-mergeDebugResources-38:\\layout\\fragment_my_bookings.xml",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\fragment_my_bookings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-mergeDebugResources-38:\\layout\\fragment_payment.xml",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\fragment_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-mergeDebugResources-38:\\layout\\fragment_flight_management.xml",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\fragment_flight_management.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-mergeDebugResources-38:\\layout\\fragment_flight_search_options.xml",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\fragment_flight_search_options.xml"
+    }
+]

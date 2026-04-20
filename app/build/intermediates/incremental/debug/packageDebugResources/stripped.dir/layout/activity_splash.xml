@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_primary">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <!-- Main Logo Container -->
+        <RelativeLayout
+            android:id="@+id/logoContainer"
+            android:layout_width="128dp"
+            android:layout_height="128dp">
+
+            <!-- Circle Backdrop (bg-white/20) -->
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/circle_white_20" />
+
+            <!-- Main Plane Icon -->
+            <ImageView
+                android:layout_width="64dp"
+                android:layout_height="64dp"
+                android:layout_centerInParent="true"
+                android:src="@drawable/ic_plane"
+                android:contentDescription="Main Logo"
+                android:tint="@color/white"
+                xmlns:app="http://schemas.android.com/apk/res-auto" />
+
+            <!-- Floating Small Plane -->
+            <ImageView
+                android:id="@+id/floatingPlane"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_marginTop="-16dp"
+                android:layout_marginEnd="-16dp"
+                android:src="@drawable/ic_plane"
+                android:tint="@color/secondary"
+                xmlns:app="http://schemas.android.com/apk/res-auto"/>
+        </RelativeLayout>
+
+        <!-- Title Text -->
+        <TextView
+            android:id="@+id/tvAppName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:text="SkyGlide"
+            android:textColor="@color/white"
+            android:textSize="40sp"
+            android:textStyle="bold"
+            android:letterSpacing="-0.02" />
+            
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Flight Booking</string>
+    <string name="nav_sign_in">SIGN IN</string>
+    <string name="nav_profile_label">PROFILE</string>
+    <string name="sign_in_to_pay">Sign in to continue to payment</string>
+    <string name="sample_from">Addis Ababa (ADD)</string>
+    <string name="sample_to">Dubai (DXB)</string>
+    <string name="flight_listing_route">%1$s - %2$s</string>
+    <string name="flight_listing_subtitle">%1$s • %2$s • %3$s</string>
+    <string name="add_flight_confirm">Add Flight</string>
+    <string name="save_flight_changes">Save Changes</string>
+    <string name="image_read_failed">Could not read the selected image.</string>
+    <string name="must_sign_in_to_upload">You must be signed in to upload images.</string>
+    <string name="image_upload_failed_detail">Image upload failed: %1$s</string>
+    <string name="flight_save_processing">Processing…</string>
+    <string name="err_something_went_wrong">Something went wrong</string>
+    <string name="empty_bookings_signed_out">Sign in to see your trips.</string>
+    <string name="empty_bookings_none">Book your first flight from the home screen.</string>
+    <string name="empty_bookings_tab">No bookings in this tab.</string>
+    <string name="sort_date_label">Sort · Date</string>
+    <string name="sort_price_label">Sort · Price</string>
+    <string name="sort_status_label">Sort · Status</string>
+    <string name="menu_sort_date">Sort by date</string>
+    <string name="menu_sort_price">Sort by price</string>
+    <string name="menu_sort_status">Sort by status</string>
+    <string name="sort_duration_label">Sort · Duration</string>
+    <string name="sort_time_label">Sort · Time</string>
+    <string name="sort_best_value_label">Sort · Best value</string>
+    <string name="cloudinary_cloud_name" translatable="false">ddyli5psp</string>
+    <string name="cloudinary_upload_preset" translatable="false">image-preset</string>
+    <plurals name="passenger_count">
+        <item quantity="one">%d Passenger</item>
+        <item quantity="other">%d Passengers</item>
+    </plurals>
+    <string name="booking_gate_title">Sign in to continue</string>
+    <string name="booking_gate_message">Sign in or create an account to continue your booking.</string>
+    <string name="booking_gate_login">Log in</string>
+    <string name="booking_gate_signup">Sign up</string>
+    <string name="auth_required_select_flight">Sign in or register to book this flight and complete passenger details.</string>
+    <string name="auth_required_payment">Sign in or register to proceed to secure payment and confirm your booking.</string>
+    <string name="save_trip_login_title">Save this trip</string>
+    <string name="save_trip_login_message">Log in to save this trip to your account and pick it up anytime from the home screen.</string>
+    <string name="save_trip_saved">Trip saved. You\'ll see it under Saved trips on Home.</string>
+    <string name="multi_city_coming_soon">Add your connecting flight: we search available flights for your first segment; book leg 1 now and complete leg 2 after.</string>
+    <string name="flight_1_outbound">Flight 1 · Outbound</string>
+    <string name="flight_2_connecting">Flight 2 · Connecting</string>
+    <string name="leg2_date">Flight 2 departure</string>
+    <string name="no_flights_for_search">No available flights for this route right now. Try different cities or dates.</string>
+    <string name="multi_city_leg1_hint">Multi-city · leg 1 results</string>
+    <string name="section_recent_searches">Recent searches</string>
+    <string name="section_saved_trips">Saved trips</string>
+    <string name="saved_trips_sign_in_hint">Sign in to sync saved trips across devices.</string>
+    <string name="popular_for_you">Top picks for you</string>
+    <string name="price_includes_taxes">Total per person, taxes &amp; fees included</string>
+    <string name="signup_after_payment_title">Create a free account?</string>
+    <string name="signup_after_payment_message">Use the same details to sign up and speed up your next booking.</string>
+    <string name="checkbox_create_account_details">Create an account using these details to speed up future bookings</string>
+    <string name="nav_home_label">HOME</string>
+    <string name="nav_book_label">BOOK</string>
+    <string name="nav_bookings_label">MY TRIPS</string>
+    <string name="back">Back</string>
+    <string name="plan_your_trip">Plan your trip</string>
+    <string name="trip_type">Trip type</string>
+    <string name="one_way">One-way</string>
+    <string name="round_trip">Round-trip</string>
+    <string name="multi_city">Multi-city</string>
+    <string name="departure_date">Departure date</string>
+    <string name="return_date">Return date</string>
+    <string name="select_date">Select date</string>
+    <string name="select_return_date">Select return date (required)</string>
+    <string name="passengers">Passengers</string>
+    <string name="cabin_class">Cabin class</string>
+    <string name="find_flights">Find flights</string>
+    <string name="economy">Economy</string>
+    <string name="decrease">Decrease</string>
+    <string name="increase">Increase</string>
+    <string name="please_choose_return">Please choose a return date</string>
+    <string name="home_search_title">Where to next?</string>
+    <string name="from_label">From</string>
+    <string name="to_label">To</string>
+    <string name="search_flights">Search flights</string>
+    <string name="use_suggested_airport">Use suggested airport</string>
+    <string name="swap_airports">Swap airports</string>
+    <string name="log_out">Log out</string>
+    <string name="popular_destinations_title">Popular destinations</string>
+    <string name="see_all">See all</string>
+
+    <!-- TODO: Put your actual Firebase Web Client ID here! Find it in Firebase Console -> Auth -> Sign-in methods -> Google -> Web SDK configuration -->
+    <string name="default_web_client_id" translatable="false">285831628447-vc5algt5o3ah4iccrs0de24phbfphkq4.apps.googleusercontent.com</string>
+</resources>

@@ -1,0 +1,250 @@
+[
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/layout_fragment_my_bookings.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/layout/fragment_my_bookings.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/drawable_ic_plane_land.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/drawable/ic_plane_land.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/layout_item_profile_menu.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/layout/item_profile_menu.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/drawable_circle_stat_green.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/drawable/circle_stat_green.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/drawable_ic_logout.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/drawable/ic_logout.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/drawable_ic_filter.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/drawable/ic_filter.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/layout_activity_forgot_password.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/layout/activity_forgot_password.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/layout_activity_splash.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/layout_activity_login.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/layout_item_admin_flight.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/layout/item_admin_flight.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/drawable_ic_chevron_left.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/drawable/ic_chevron_left.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/drawable_circle_hover_bg.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/drawable/circle_hover_bg.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/layout_fragment_booking.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/layout/fragment_booking.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/drawable_ic_home.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/drawable_ic_calendar.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/drawable/ic_calendar.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/layout_item_destination.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/layout/item_destination.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/layout_fragment_flight_listing.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/layout/fragment_flight_listing.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/drawable_tab_bg.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/drawable/tab_bg.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/drawable_card_bg.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/drawable/card_bg.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/drawable_circle_stat_blue.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/drawable/circle_stat_blue.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/drawable_gradient_primary_dark.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/drawable/gradient_primary_dark.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/drawable_ic_search.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/drawable_badge_bg.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/drawable/badge_bg.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/drawable_ic_shield.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/drawable/ic_shield.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/layout_item_booking.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/layout/item_booking.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/layout_fragment_payment.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/layout/fragment_payment.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/drawable_qr_border.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/drawable/qr_border.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/drawable_sample_user.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/drawable/sample_user.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/drawable_ic_settings.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/layout_fragment_flight_management.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/layout/fragment_flight_management.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/drawable_circle_stat_purple.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/drawable/circle_stat_purple.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/layout_fragment_ticket.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/layout/fragment_ticket.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/layout_fragment_user_management.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/layout/fragment_user_management.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/drawable_ic_ticket.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/drawable/ic_ticket.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/drawable_edittext_bg.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/drawable/edittext_bg.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/drawable_button_outline.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/drawable/button_outline.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/layout_activity_register.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/drawable_sample_qr.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/drawable/sample_qr.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/drawable_tab_selected.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/drawable/tab_selected.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/drawable_ic_plane.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/drawable/ic_plane.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/drawable_ic_user.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/drawable/ic_user.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/drawable_ic_flight_path.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/drawable/ic_flight_path.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/layout_fragment_home.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/layout_fragment_profile.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/drawable_ic_edit.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/drawable/ic_edit.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/layout_item_admin_user.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/layout/item_admin_user.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/layout_item_admin_stat.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/layout/item_admin_stat.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/layout_fragment_admin_dashboard.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/layout/fragment_admin_dashboard.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/layout_fragment_booking_management.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/layout/fragment_booking_management.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/drawable_ic_plane_takeoff.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/drawable/ic_plane_takeoff.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/layout_item_flight.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/layout/item_flight.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/drawable_badge_confirmed.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/drawable/badge_confirmed.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/drawable_circle_white_20.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/drawable/circle_white_20.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/drawable_ic_help.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/drawable/ic_help.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/drawable_ic_chevron_right.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/drawable/ic_chevron_right.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/drawable_ic_bell.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/drawable/ic_bell.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/drawable_circle_primary.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/drawable/circle_primary.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/drawable_gradient_primary.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/drawable/gradient_primary.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/layout_item_admin_booking.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/layout/item_admin_booking.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-merged_res-32:/drawable_checkbox_checked_bg.xml.flat",
+        "source": "com.example.flightbooking.app-main-34:/drawable/checkbox_checked_bg.xml"
+    }
+]

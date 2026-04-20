@@ -1,0 +1,682 @@
+[
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\layout_fragment_booking_management.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\fragment_booking_management.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_tab_selected.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\tab_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_rating_badge_bg.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\rating_badge_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_qr_border.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\qr_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_badge_status_completed.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\badge_status_completed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\layout_item_admin_user.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\item_admin_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_ic_phone.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\ic_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_ethiopian_plane.jpg.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\ethiopian_plane.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_profile_card_elevated.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\profile_card_elevated.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_sample_qr.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\sample_qr.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_badge_status_confirmed.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\badge_status_confirmed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\anim_layout_animation_bookings.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\anim\\layout_animation_bookings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_profile_icon_circle_action.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\profile_icon_circle_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_ic_help.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\ic_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_premium_button_bg.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\premium_button_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\layout_item_admin_booking.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\item_admin_booking.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_bg_premium_card.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\bg_premium_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_sample_user.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\sample_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_ic_bell.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\ic_bell.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\layout_activity_otp_verification.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\activity_otp_verification.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_ticket_dash_line.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\ticket_dash_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\layout_dialog_add_flight.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\dialog_add_flight.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_bg_otp_box.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\bg_otp_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_btn_book_pill.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\btn_book_pill.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_spinner_bg_minimal.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\spinner_bg_minimal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_ic_share.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\ic_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_ic_edit.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\ic_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_ic_logout.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\ic_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_badge_business.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\badge_business.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_counter_btn_bg.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\counter_btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_checkbox_checked_bg.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\checkbox_checked_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\layout_fragment_flight_management.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\fragment_flight_management.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_ic_contactless.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\ic_contactless.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\layout_fragment_ticket.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\fragment_ticket.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_circle_primary.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\circle_primary.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\layout_fragment_all_destinations.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\fragment_all_destinations.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_btn_search_gradient.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\btn_search_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_badge_bg.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\badge_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\layout_fragment_admin_dashboard.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\fragment_admin_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\font_outfit.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\font\\outfit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_bg_segmented_control.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\bg_segmented_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_btn_outline_green.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\btn_outline_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\layout_item_profile_menu.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\item_profile_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_edittext_modern.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\edittext_modern.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_bg_profile_sync_card.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\bg_profile_sync_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_badge_status_cancelled.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\badge_status_cancelled.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_ic_user.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\ic_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_btn_profile_save_gradient.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\btn_profile_save_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_ic_chevron_left.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\ic_chevron_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_dash_line_horizontal.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\dash_line_horizontal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\layout_fragment_flight_listing.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\fragment_flight_listing.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\layout_fragment_destination_management.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\fragment_destination_management.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\layout_fragment_profile_edit.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\fragment_profile_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_ic_filter.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\ic_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_ic_plus.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\ic_plus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\layout_fragment_profile_guest.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\fragment_profile_guest.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\layout_dialog_loading.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\dialog_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_ic_plane.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\ic_plane.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_btn_cancel_red.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\btn_cancel_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_ic_suitcase.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\ic_suitcase.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_ic_plane_land.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\ic_plane_land.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_circle_swap_btn.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\circle_swap_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_ic_calendar.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\ic_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_ic_upload_profile.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\ic_upload_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\layout_fragment_payment.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\fragment_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_btn_add_gradient.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\btn_add_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_circle_logout_btn.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\circle_logout_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_badge_refundable.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\badge_refundable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_edittext_bg.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\edittext_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_circle_stat_blue.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\circle_stat_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_bg_counter_btn.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\bg_counter_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_gradient_primary_dark.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\gradient_primary_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_circle_blue_bg.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\circle_blue_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_ic_download.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\ic_download.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_chip_bg.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\chip_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_app_logo.png.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\app_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_payment_card_gradient_modern.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\payment_card_gradient_modern.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_circle_stat_purple.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\circle_stat_purple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\layout_fragment_my_bookings.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\fragment_my_bookings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_badge_profile_premium.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\badge_profile_premium.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_button_outline.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\button_outline.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_ic_close_red.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\ic_close_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_badge_status_pending.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\badge_status_pending.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_circle_action_green.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\circle_action_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_circle_white_20.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\circle_white_20.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_bg_segmented_item_selected.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\bg_segmented_item_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_btn_premium_pill.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\btn_premium_pill.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_profile_menu_icon_bg.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\profile_menu_icon_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_ic_plane_takeoff.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\ic_plane_takeoff.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_ic_star.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\ic_star.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_glass_header_bg.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\glass_header_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_btn_book_now_gradient.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\btn_book_now_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_ic_chevron_right.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\ic_chevron_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\layout_fragment_boarding_pass.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\fragment_boarding_pass.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_gradient_hero_bg.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\gradient_hero_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_ic_check_circle.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\ic_check_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_gradient_primary.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\gradient_primary.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_ic_minus.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\ic_minus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_card_bg.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\card_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_profile_input_email_readonly.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\profile_input_email_readonly.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\layout_item_admin_stat.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\item_admin_stat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_ic_ticket.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\ic_ticket.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_profile_header_bg.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\profile_header_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_ic_location_pin.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\ic_location_pin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_btn_premium_capsule.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\btn_premium_capsule.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_ic_heart_outline.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\ic_heart_outline.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\layout_fragment_user_management.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\fragment_user_management.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\layout_activity_reset_password.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\activity_reset_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_profile_input_white.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\profile_input_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_bottom_scrim_gradient.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\bottom_scrim_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_filter_pill_bg.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\filter_pill_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\layout_item_flight.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\item_flight.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_ic_chevron_down.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\ic_chevron_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_ic_close.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\ic_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_bg_input_container.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\bg_input_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_badge_direct.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\badge_direct.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_price_pill_bg.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\price_pill_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_premium_input_bg.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\premium_input_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_ic_swap.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\ic_swap.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_splash_plane.png.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\splash_plane.png"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_ic_shield.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\ic_shield.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_profile_action_card_bg.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\profile_action_card_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_ic_photo.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\ic_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_circle_image_bg.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\circle_image_bg.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-debug-39:/layout_activity_forgot_password.xml.flat",
+        "source": "com.example.flightbooking.app-main-41:/layout/activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_ic_google.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\ic_google.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_progress_bar_horizontal_rounded.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\progress_bar_horizontal_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_ic_check_green.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\ic_check_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_badge_confirmed.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\badge_confirmed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_ic_camera_profile.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\ic_camera_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_circle_hover_bg.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\circle_hover_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\layout_fragment_booking.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\fragment_booking.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_ic_card_chip.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\ic_card_chip.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_premium_gradient.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\premium_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_green_circle_faint.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\green_circle_faint.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_ic_email.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\layout_fragment_flight_search_options.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\fragment_flight_search_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\layout_item_admin_flight.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\item_admin_flight.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_circle_action_red.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\circle_action_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_ic_flight_path.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\ic_flight_path.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_tab_bg.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\tab_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_bg_input_form.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\bg_input_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\layout_activity_forgot_password.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_profile_edit_circle.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\profile_edit_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\color_bottom_nav_selector.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\color\\bottom_nav_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\layout_fragment_add_destination.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\fragment_add_destination.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_circle_red_bg.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\circle_red_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\layout_item_destination.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\item_destination.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_circle_stat_green.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\circle_stat_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\layout_fragment_booking_details_admin.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\fragment_booking_details_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_circle_gray_bg.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\circle_gray_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_circle_green_bg.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\circle_green_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\layout_item_booking.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\item_booking.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_header_gradient_premium.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\header_gradient_premium.xml"
+    }
+]
