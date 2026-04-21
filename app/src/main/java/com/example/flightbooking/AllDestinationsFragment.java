@@ -8,7 +8,7 @@ import android.widget.Toast;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
-import androidx.recyclerview.widget.LinearLayoutManager;
+import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 import com.example.flightbooking.adapters.DestinationAdapter;
 import com.example.flightbooking.models.Destination;
@@ -36,9 +36,9 @@ public class AllDestinationsFragment extends Fragment implements DestinationAdap
         // 1. Back Button
         view.findViewById(R.id.btnBack).setOnClickListener(v -> getParentFragmentManager().popBackStack());
 
-        // 2. Setup RecyclerView (Vertical)
+        // 2. Setup RecyclerView (Grid - 2 Columns)
         RecyclerView rvAll = view.findViewById(R.id.rvAllDestinations);
-        rvAll.setLayoutManager(new LinearLayoutManager(getContext()));
+        rvAll.setLayoutManager(new GridLayoutManager(getContext(), 2));
         
         destinationList = new ArrayList<>();
         adapter = new DestinationAdapter(destinationList, this);
