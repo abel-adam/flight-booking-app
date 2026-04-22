@@ -39,9 +39,6 @@ public final class FragmentAdminDashboardBinding implements ViewBinding {
   public final ItemProfileMenuBinding menuManageUsers;
 
   @NonNull
-  public final ItemProfileMenuBinding menuSystemSettings;
-
-  @NonNull
   public final Spinner spinnerTimeRange;
 
   @NonNull
@@ -61,8 +58,7 @@ public final class FragmentAdminDashboardBinding implements ViewBinding {
       @NonNull ItemProfileMenuBinding menuManageBookings,
       @NonNull ItemProfileMenuBinding menuManageDestinations,
       @NonNull ItemProfileMenuBinding menuManageFlights,
-      @NonNull ItemProfileMenuBinding menuManageUsers,
-      @NonNull ItemProfileMenuBinding menuSystemSettings, @NonNull Spinner spinnerTimeRange,
+      @NonNull ItemProfileMenuBinding menuManageUsers, @NonNull Spinner spinnerTimeRange,
       @NonNull ItemAdminStatBinding statBookings, @NonNull ItemAdminStatBinding statFlights,
       @NonNull ItemAdminStatBinding statRevenue, @NonNull ItemAdminStatBinding statUsers) {
     this.rootView = rootView;
@@ -72,7 +68,6 @@ public final class FragmentAdminDashboardBinding implements ViewBinding {
     this.menuManageDestinations = menuManageDestinations;
     this.menuManageFlights = menuManageFlights;
     this.menuManageUsers = menuManageUsers;
-    this.menuSystemSettings = menuSystemSettings;
     this.spinnerTimeRange = spinnerTimeRange;
     this.statBookings = statBookings;
     this.statFlights = statFlights;
@@ -147,13 +142,6 @@ public final class FragmentAdminDashboardBinding implements ViewBinding {
       }
       ItemProfileMenuBinding binding_menuManageUsers = ItemProfileMenuBinding.bind(menuManageUsers);
 
-      id = R.id.menuSystemSettings;
-      View menuSystemSettings = ViewBindings.findChildViewById(rootView, id);
-      if (menuSystemSettings == null) {
-        break missingId;
-      }
-      ItemProfileMenuBinding binding_menuSystemSettings = ItemProfileMenuBinding.bind(menuSystemSettings);
-
       id = R.id.spinnerTimeRange;
       Spinner spinnerTimeRange = ViewBindings.findChildViewById(rootView, id);
       if (spinnerTimeRange == null) {
@@ -190,9 +178,8 @@ public final class FragmentAdminDashboardBinding implements ViewBinding {
 
       return new FragmentAdminDashboardBinding((LinearLayout) rootView, btnLogout,
           llOccupancyAlerts, binding_menuManageBookings, binding_menuManageDestinations,
-          binding_menuManageFlights, binding_menuManageUsers, binding_menuSystemSettings,
-          spinnerTimeRange, binding_statBookings, binding_statFlights, binding_statRevenue,
-          binding_statUsers);
+          binding_menuManageFlights, binding_menuManageUsers, spinnerTimeRange,
+          binding_statBookings, binding_statFlights, binding_statRevenue, binding_statUsers);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

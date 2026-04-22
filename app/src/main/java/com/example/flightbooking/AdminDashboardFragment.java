@@ -81,7 +81,6 @@ public class AdminDashboardFragment extends Fragment {
         setupMenuItem(view.findViewById(R.id.menuManageBookings), R.drawable.ic_ticket, "Booking Management");
         setupMenuItem(view.findViewById(R.id.menuManageDestinations), R.drawable.ic_location_pin, "Destination Management");
         setupMenuItem(view.findViewById(R.id.menuManageUsers), R.drawable.ic_user, "User Management");
-        setupMenuItem(view.findViewById(R.id.menuSystemSettings), R.drawable.ic_settings, "System Settings");
 
         // 3. Navigation
         view.findViewById(R.id.menuManageFlights).setOnClickListener(v -> {

@@ -3411,6 +3411,7 @@ id browser_actions_menu_view
 id btnAddFlight
 id btnBack
 id btnBackToHome
+id btnBackToLogin
 id btnBoardingPass
 id btnBook
 id btnBookFirstFlight
@@ -3433,6 +3434,7 @@ id btnIncrease
 id btnLogin
 id btnLogout
 id btnLogoutAction
+id btnOpenEmail
 id btnPayNow
 id btnPersonalSettings
 id btnProfileCamera
@@ -3570,7 +3572,6 @@ id etFromCode
 id etFullName
 id etMc2From
 id etMc2To
-id etNewPassword
 id etPassengerName
 id etPassportExpiry
 id etPassportNumber
@@ -3713,7 +3714,6 @@ id menuManageBookings
 id menuManageDestinations
 id menuManageFlights
 id menuManageUsers
-id menuSystemSettings
 id message
 id middle
 id mini
@@ -3940,14 +3940,12 @@ id textinput_helper_text
 id textinput_placeholder
 id textinput_prefix_text
 id textinput_suffix_text
-id tilConfirmPassword
 id tilCountryCode
 id tilDOB
 id tilEmail
 id tilGender
 id tilName
 id tilNationality
-id tilNewPassword
 id tilPassportExpiry
 id tilPassportNumber
 id tilPhone

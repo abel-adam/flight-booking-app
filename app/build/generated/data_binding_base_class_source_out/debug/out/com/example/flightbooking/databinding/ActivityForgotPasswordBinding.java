@@ -4,14 +4,15 @@ package com.example.flightbooking.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.ScrollView;
+import android.widget.Button;
+import android.widget.ImageButton;
+import android.widget.LinearLayout;
+import android.widget.ProgressBar;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
-import androidx.appcompat.widget.AppCompatImageButton;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.example.flightbooking.R;
-import com.google.android.material.button.MaterialButton;
 import com.google.android.material.textfield.TextInputEditText;
 import java.lang.NullPointerException;
 import java.lang.Override;
@@ -19,29 +20,33 @@ import java.lang.String;
 
 public final class ActivityForgotPasswordBinding implements ViewBinding {
   @NonNull
-  private final ScrollView rootView;
+  private final LinearLayout rootView;
 
   @NonNull
-  public final AppCompatImageButton btnBack;
+  public final ImageButton btnBack;
 
   @NonNull
-  public final MaterialButton btnResetPassword;
+  public final Button btnResetPassword;
 
   @NonNull
   public final TextInputEditText etEmail;
 
-  private ActivityForgotPasswordBinding(@NonNull ScrollView rootView,
-      @NonNull AppCompatImageButton btnBack, @NonNull MaterialButton btnResetPassword,
-      @NonNull TextInputEditText etEmail) {
+  @NonNull
+  public final ProgressBar progressBar;
+
+  private ActivityForgotPasswordBinding(@NonNull LinearLayout rootView,
+      @NonNull ImageButton btnBack, @NonNull Button btnResetPassword,
+      @NonNull TextInputEditText etEmail, @NonNull ProgressBar progressBar) {
     this.rootView = rootView;
     this.btnBack = btnBack;
     this.btnResetPassword = btnResetPassword;
     this.etEmail = etEmail;
+    this.progressBar = progressBar;
   }
 
   @Override
   @NonNull
-  public ScrollView getRoot() {
+  public LinearLayout getRoot() {
     return rootView;
   }
 
@@ -67,13 +72,13 @@ public final class ActivityForgotPasswordBinding implements ViewBinding {
     int id;
     missingId: {
       id = R.id.btnBack;
-      AppCompatImageButton btnBack = ViewBindings.findChildViewById(rootView, id);
+      ImageButton btnBack = ViewBindings.findChildViewById(rootView, id);
       if (btnBack == null) {
         break missingId;
       }
 
       id = R.id.btnResetPassword;
-      MaterialButton btnResetPassword = ViewBindings.findChildViewById(rootView, id);
+      Button btnResetPassword = ViewBindings.findChildViewById(rootView, id);
       if (btnResetPassword == null) {
         break missingId;
       }
@@ -84,8 +89,14 @@ public final class ActivityForgotPasswordBinding implements ViewBinding {
         break missingId;
       }
 
-      return new ActivityForgotPasswordBinding((ScrollView) rootView, btnBack, btnResetPassword,
-          etEmail);
+      id = R.id.progressBar;
+      ProgressBar progressBar = ViewBindings.findChildViewById(rootView, id);
+      if (progressBar == null) {
+        break missingId;
+      }
+
+      return new ActivityForgotPasswordBinding((LinearLayout) rootView, btnBack, btnResetPassword,
+          etEmail, progressBar);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

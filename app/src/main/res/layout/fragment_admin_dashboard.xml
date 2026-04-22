@@ -124,7 +124,6 @@
                     <include android:id="@+id/menuManageBookings" layout="@layout/item_profile_menu" />
                     <include android:id="@+id/menuManageDestinations" layout="@layout/item_profile_menu" />
                     <include android:id="@+id/menuManageUsers" layout="@layout/item_profile_menu" />
-                    <include android:id="@+id/menuSystemSettings" layout="@layout/item_profile_menu" />
                 </LinearLayout>
             </com.google.android.material.card.MaterialCardView>
 

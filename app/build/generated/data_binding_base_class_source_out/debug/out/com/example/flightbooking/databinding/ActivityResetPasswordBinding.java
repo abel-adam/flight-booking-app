@@ -4,17 +4,13 @@ package com.example.flightbooking.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
 import android.widget.LinearLayout;
-import android.widget.ProgressBar;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
-import androidx.appcompat.widget.AppCompatImageButton;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.example.flightbooking.R;
-import com.google.android.material.button.MaterialButton;
-import com.google.android.material.textfield.TextInputEditText;
-import com.google.android.material.textfield.TextInputLayout;
 import java.lang.NullPointerException;
 import java.lang.Override;
 import java.lang.String;
@@ -24,39 +20,16 @@ public final class ActivityResetPasswordBinding implements ViewBinding {
   private final LinearLayout rootView;
 
   @NonNull
-  public final AppCompatImageButton btnBack;
+  public final Button btnBackToLogin;
 
   @NonNull
-  public final MaterialButton btnResetPassword;
-
-  @NonNull
-  public final TextInputEditText etConfirmPassword;
-
-  @NonNull
-  public final TextInputEditText etNewPassword;
-
-  @NonNull
-  public final ProgressBar progressBar;
-
-  @NonNull
-  public final TextInputLayout tilConfirmPassword;
-
-  @NonNull
-  public final TextInputLayout tilNewPassword;
+  public final Button btnOpenEmail;
 
   private ActivityResetPasswordBinding(@NonNull LinearLayout rootView,
-      @NonNull AppCompatImageButton btnBack, @NonNull MaterialButton btnResetPassword,
-      @NonNull TextInputEditText etConfirmPassword, @NonNull TextInputEditText etNewPassword,
-      @NonNull ProgressBar progressBar, @NonNull TextInputLayout tilConfirmPassword,
-      @NonNull TextInputLayout tilNewPassword) {
+      @NonNull Button btnBackToLogin, @NonNull Button btnOpenEmail) {
     this.rootView = rootView;
-    this.btnBack = btnBack;
-    this.btnResetPassword = btnResetPassword;
-    this.etConfirmPassword = etConfirmPassword;
-    this.etNewPassword = etNewPassword;
-    this.progressBar = progressBar;
-    this.tilConfirmPassword = tilConfirmPassword;
-    this.tilNewPassword = tilNewPassword;
+    this.btnBackToLogin = btnBackToLogin;
+    this.btnOpenEmail = btnOpenEmail;
   }
 
   @Override
@@ -86,50 +59,20 @@ public final class ActivityResetPasswordBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.btnBack;
-      AppCompatImageButton btnBack = ViewBindings.findChildViewById(rootView, id);
-      if (btnBack == null) {
+      id = R.id.btnBackToLogin;
+      Button btnBackToLogin = ViewBindings.findChildViewById(rootView, id);
+      if (btnBackToLogin == null) {
         break missingId;
       }
 
-      id = R.id.btnResetPassword;
-      MaterialButton btnResetPassword = ViewBindings.findChildViewById(rootView, id);
-      if (btnResetPassword == null) {
+      id = R.id.btnOpenEmail;
+      Button btnOpenEmail = ViewBindings.findChildViewById(rootView, id);
+      if (btnOpenEmail == null) {
         break missingId;
       }
 
-      id = R.id.etConfirmPassword;
-      TextInputEditText etConfirmPassword = ViewBindings.findChildViewById(rootView, id);
-      if (etConfirmPassword == null) {
-        break missingId;
-      }
-
-      id = R.id.etNewPassword;
-      TextInputEditText etNewPassword = ViewBindings.findChildViewById(rootView, id);
-      if (etNewPassword == null) {
-        break missingId;
-      }
-
-      id = R.id.progressBar;
-      ProgressBar progressBar = ViewBindings.findChildViewById(rootView, id);
-      if (progressBar == null) {
-        break missingId;
-      }
-
-      id = R.id.tilConfirmPassword;
-      TextInputLayout tilConfirmPassword = ViewBindings.findChildViewById(rootView, id);
-      if (tilConfirmPassword == null) {
-        break missingId;
-      }
-
-      id = R.id.tilNewPassword;
-      TextInputLayout tilNewPassword = ViewBindings.findChildViewById(rootView, id);
-      if (tilNewPassword == null) {
-        break missingId;
-      }
-
-      return new ActivityResetPasswordBinding((LinearLayout) rootView, btnBack, btnResetPassword,
-          etConfirmPassword, etNewPassword, progressBar, tilConfirmPassword, tilNewPassword);
+      return new ActivityResetPasswordBinding((LinearLayout) rootView, btnBackToLogin,
+          btnOpenEmail);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

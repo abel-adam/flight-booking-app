@@ -177,7 +177,7 @@ public class OtpVerificationActivity extends AppCompatActivity {
                     if (task.isSuccessful()) {
                         String uid = mAuth.getCurrentUser().getUid();
                         String normalizedEmail = email.toLowerCase().trim();
-                        String role = normalizedEmail.equals("admin@gmail.com") ? "admin" : "customer";
+                        String role = "customer"; // Default to customer
                         User user = new User(uid, name, normalizedEmail, role, "Active");
 
                         db.collection("users").document(uid).set(user)

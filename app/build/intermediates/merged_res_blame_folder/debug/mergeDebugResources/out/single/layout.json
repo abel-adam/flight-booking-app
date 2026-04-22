@@ -40,10 +40,6 @@
         "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\fragment_profile_edit.xml"
     },
     {
-        "merged": "com.example.flightbooking.app-mergeDebugResources-38:/layout/activity_forgot_password.xml",
-        "source": "com.example.flightbooking.app-main-41:/layout/activity_forgot_password.xml"
-    },
-    {
         "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-mergeDebugResources-38:\\layout\\fragment_profile.xml",
         "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\fragment_profile.xml"
     },
@@ -102,6 +98,10 @@
     {
         "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-mergeDebugResources-38:\\layout\\fragment_flight_listing.xml",
         "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\layout\\fragment_flight_listing.xml"
+    },
+    {
+        "merged": "com.example.flightbooking.app-mergeDebugResources-38:/layout/activity_reset_password.xml",
+        "source": "com.example.flightbooking.app-main-41:/layout/activity_reset_password.xml"
     },
     {
         "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-mergeDebugResources-38:\\layout\\fragment_user_management.xml",

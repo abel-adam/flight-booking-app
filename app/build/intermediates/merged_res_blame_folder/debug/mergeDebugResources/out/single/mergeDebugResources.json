@@ -12,12 +12,12 @@
         "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\tab_selected.xml"
     },
     {
-        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_rating_badge_bg.xml.flat",
-        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\rating_badge_bg.xml"
-    },
-    {
         "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_qr_border.xml.flat",
         "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\qr_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_rating_badge_bg.xml.flat",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\rating_badge_bg.xml"
     },
     {
         "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_badge_status_completed.xml.flat",
@@ -516,6 +516,10 @@
         "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
+        "merged": "com.example.flightbooking.app-debug-39:/layout_activity_reset_password.xml.flat",
+        "source": "com.example.flightbooking.app-main-41:/layout/activity_reset_password.xml"
+    },
+    {
         "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_premium_input_bg.xml.flat",
         "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\premium_input_bg.xml"
     },
@@ -546,10 +550,6 @@
     {
         "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_circle_image_bg.xml.flat",
         "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-main-41:\\drawable\\circle_image_bg.xml"
-    },
-    {
-        "merged": "com.example.flightbooking.app-debug-39:/layout_activity_forgot_password.xml.flat",
-        "source": "com.example.flightbooking.app-main-41:/layout/activity_forgot_password.xml"
     },
     {
         "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.7\\com.example.flightbooking.app-debug-39:\\drawable_ic_google.xml.flat",

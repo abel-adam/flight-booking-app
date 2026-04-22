@@ -29,9 +29,8 @@ public class EmailUtils extends AsyncTask<Void, Void, Boolean> {
 
     @Override
     protected Boolean doInBackground(Void... voids) {
-        // TODO: VERY IMPORTANT: Provide your real Gmail and 16-letter App Password here!
         final String username = "coderbela@gmail.com";
-        final String password = "alvi uexa ccly wzlt"; // Note: This is an App Password, NOT your regular password
+        final String password = "mwqe kkzc bcap ckuw"; // Note: This is an App Password, NOT your regular password
 
         Properties props = new Properties();
         props.put("mail.smtp.auth", "true");
