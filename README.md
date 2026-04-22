@@ -1,58 +1,86 @@
-# Flight Booking Android App ✈️
+# ✈️ Flight Booking App - Android
 
-A modern Android application for searching, booking, and managing flights. This project features a robust authentication system, real-time database integration via Firebase, and a custom SMTP-based OTP verification system.
+A comprehensive flight reservation and management system built with Java and Firebase. This application provides a seamless experience for users to search for flights, manage bookings, and generate digital tickets, while offering an extensive administrative dashboard for fleet and destination management.
 
-## 🚀 Features
+## 📖 Project Overview
+The Flight Booking App is designed to simplify the air travel process. It handles everything from user onboarding with OTP verification to real-time flight tracking and electronic boarding passes. The project leverages Firebase for real-time data consistency and Cloudinary for efficient image handling.
 
-- **User Authentication**: Secure Login and Registration using Firebase Auth.
-- **OTP Verification**: Custom 6-digit verification codes sent via JavaMail API (Gmail SMTP) for new accounts and password resets.
-- **Flight Search**: Search for available flights based on destination and preferences.
-- **Booking Management**: Users can view and manage their flight bookings.
-- **Admin Dashboard**: Specialized interface for managing flight listings and user bookings.
-- **Profile Management**: Update user details and profile pictures (integrated with Cloudinary).
-- **Secure Password Reset**: Multi-step verification using custom OTP followed by official Firebase secure reset links.
+## ✨ Key Features
 
-## 🛠 Tech Stack
+### 👤 User Module
+- **Advanced Auth**: Email/Password login with Google Sign-In support.
+- **OTP Verification**: Multi-step identity verification via custom JavaMail SMTP integration.
+- **Flight Discovery**: Search flights by origin, destination, date, and class.
+- **Booking Flow**: Intuitive seat selection and passenger details management.
+- **Payment Simulation**: Secure payment fragment with validation and transaction feedback.
+- **Digital Tickets**: Generate PDFs for boarding passes and booking summaries.
+- **Profile Management**: Customizable user profiles with Cloudinary-backed image uploads.
 
-- **Language**: Java
-- **UI Framework**: XML (Material Design)
-- **Backend**: Firebase (Authentication, Firestore, Cloud Functions)
-- **Email Service**: JavaMail API via Gmail SMTP
-- **Image Handling**: Glide, CircleImageView
-- **Image Storage**: Cloudinary (Unsigned Presets)
-- **Networking**: OkHttp
+### 🛡️ Admin Module
+- **Flight Management**: Create, update, and cancel flight schedules in real-time.
+- **Destination Control**: Manage global destinations with imagery and descriptions.
+- **Booking Oversight**: Monitor and manage all user bookings and cancellation requests.
+- **User Analytics**: View and manage user accounts and roles.
 
-## 🔑 Key Configurations
+## 🛠 Technologies Used
+- **Language**: Java (JDK 17)
+- **Backend**: Firebase (Auth, Firestore, Cloud Functions)
+- **Storage**: Cloudinary (Image Hosting)
+- **Email**: JavaMail API (SMTP)
+- **Networking**: OkHttp, Glide
+- **Utils**: ZXing (QR Codes), PDFJet (Ticket Generation)
+- **Architecture**: Fragment-based single-activity architecture for fluid navigation.
 
-### SMTP Configuration (EmailUtils.java)
-The app uses a custom `EmailUtils` class to send OTPs. To enable this, ensure you have a Gmail App Password:
-```java
-final String username = "your-email@gmail.com";
-final String password = "your-16-character-app-password";
+## 📂 Project Structure
+```text
+flight-booking/
+├── app/
+│   ├── src/main/java/com/example/flightbooking/
+│   │   ├── adapters/      # RecyclerView adapters for flights, bookings, etc.
+│   │   ├── models/        # Data models (User, Flight, Booking, Destination)
+│   │   ├── util/          # Helper classes (EmailUtils, CloudinaryUploader)
+│   │   ├── ui/            # Fragments and Activities
+│   │   └── ...            # Logic for Search, Booking, Admin, and Payment
+│   └── src/main/res/      # Layouts, Drawables, and Navigation XMLs
+├── functions/             # Firebase Cloud Functions (Node.js)
+└── local.properties       # Secure environment variables (Hidden from Git)
 ```
 
-### Firebase Setup
-1. Create a Firebase project at [Firebase Console](https://console.firebase.google.com/).
-2. Enable **Email/Password** authentication.
-3. Enable **Cloud Firestore** in test or production mode.
-4. (Optional) Configure **SMTP Settings** in Firebase Authentication -> Templates -> Password Reset to use your Gmail for secure links.
+## ⚙️ Configuration & Setup
 
-## 📸 Screenshots
+### 1. Prerequisites
+- Android Studio Iguana or newer.
+- A Firebase Project.
+- A Cloudinary account.
 
-| Login | Registration | Flight Search |
-|-------|--------------|---------------|
-| ![Login](https://via.placeholder.com/200x400) | ![Reg](https://via.placeholder.com/200x400) | ![Search](https://via.placeholder.com/200x400) |
+### 2. Environment Setup
+Add your secrets to `local.properties` (this file is ignored by Git for security):
+```properties
+GMAIL_USER="your-email@gmail.com"
+GMAIL_PASS="your-app-password"
+CLOUDINARY_URL="your-cloudinary-url"
+```
 
-## 🏗 Installation
+### 3. Firebase Integration
+1. Download `google-services.json` from the Firebase Console.
+2. Place it in the `app/` directory.
+3. Enable **Firestore** and **Authentication** in the console.
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/Flight-Booking.git
-   ```
-2. Open the project in **Android Studio**.
-3. Connect your Firebase project and add the `google-services.json` file to the `/app` directory.
-4. Sync Gradle and run the app on an emulator or physical device.
+## 🚀 Usage Guide
+1. **Register**: Sign up and verify your account using the OTP sent to your email.
+2. **Search**: Use the home fragment to find flights.
+3. **Book**: Select a flight, fill in passenger details, and complete the simulated payment.
+4. **Ticket**: View your booking in "My Bookings" and download the PDF boarding pass.
 
-## 📝 License
+## 🔮 Future Improvements
+- [ ] Integration with real Payment Gateways (Stripe/Razorpay).
+- [ ] Real-time flight status notifications via Push Notifications.
+- [ ] Multi-language support (Localization).
+- [ ] Dark Mode UI optimization.
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## 👥 Author
+**Abel Adam**
+- GitHub: [@abel-adam](https://github.com/abel-adam)
+
+## 📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
