@@ -16,6 +16,15 @@ android {
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables.useSupportLibrary = true
+
+        // Read properties from local.properties
+        Properties properties = new Properties()
+        if (project.rootProject.file('local.properties').canRead()) {
+            properties.load(project.rootProject.file('local.properties').newDataInputStream())
+        }
+
+        buildConfigField "String", "GMAIL_USER", "\"${properties.getProperty('GMAIL_USER')}\""
+        buildConfigField "String", "GMAIL_PASS", "\"${properties.getProperty('GMAIL_PASS')}\""
     }
 
     buildTypes {
@@ -31,6 +40,7 @@ android {
     buildFeatures {
         viewBinding true
         dataBinding false
+        buildConfig true
     }
 
     packaging {

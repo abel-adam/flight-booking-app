@@ -29,8 +29,26 @@ public class EmailUtils extends AsyncTask<Void, Void, Boolean> {
 
     @Override
     protected Boolean doInBackground(Void... voids) {
-        final String username = "coderbela@gmail.com";
-        final String password = "mwqe kkzc bcap ckuw"; // Note: This is an App Password, NOT your regular password
+        // Use BuildConfig values, fallback to empty if build is not ready
+        String username = "";
+        String password = "";
+        
+        try {
+            username = com.example.flightbooking.BuildConfig.GMAIL_USER;
+            password = com.example.flightbooking.BuildConfig.GMAIL_PASS;
+        } catch (Exception e) {
+            // This happens if the build hasn't finished yet
+            e.printStackTrace();
+        }
+
+        if (username == null || username.isEmpty()) {
+            // Fallback for immediate testing if BuildConfig is failing
+            username = "coderbela@gmail.com";
+            password = "bsla bhyn yidx rsbp";
+        }
+
+        final String finalUser = username;
+        final String finalPass = password;
 
         Properties props = new Properties();
         props.put("mail.smtp.auth", "true");
@@ -41,7 +59,7 @@ public class EmailUtils extends AsyncTask<Void, Void, Boolean> {
         Session session = Session.getInstance(props,
                 new javax.mail.Authenticator() {
                     protected PasswordAuthentication getPasswordAuthentication() {
-                        return new PasswordAuthentication(username, password);
+                        return new PasswordAuthentication(finalUser, finalPass);
                     }
                 });
 
